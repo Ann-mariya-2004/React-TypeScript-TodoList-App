@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # React TypeScript Todo App
 
 ## About this Repository
@@ -28,3 +29,7 @@ yarn start
 ## Notes
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+=======
+# React-TypeScript-TodoList-App
+A customized TypeScript Todo app built with React
+>>>>>>> 2a4c5b2af6d2029c3604c14fd45b6cd82c3160e0
